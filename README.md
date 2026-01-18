@@ -1,4 +1,4 @@
-# Deep Research Agentic Web Search Tool
+# Agentic Deep Research Assistant
 
 ## Overview
 
