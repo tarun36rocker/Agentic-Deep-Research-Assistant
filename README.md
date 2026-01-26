@@ -1,4 +1,4 @@
-# Agentic Deep Research Assistant
+# Agentic Deep Research Assistant using OpenAI Agents SDK
 
 ## Overview
 
